@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "chgIeYE5aHFJ4mZSJZyESH5Xo+zojhZjyicBJI1NNf1fXI1cEGiA+7qJRmhDk8nr/n2DXofh31Ew/6wvLV6NuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\Documents\\Projects\\PasswordAlReady\\PasswordAlReady\\PasswordAlReady.iOS\\PasswordAlReady.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
